@@ -1,0 +1,36 @@
+_repo: Socialism-and-Modern-Science--Darwin-Spencer-Marx-_18397
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: La Monte, Robert Rives
+    aliases:
+    - Monte, Robert Rives La
+    - Monte, Robert Rives la
+    gutenberg_agent_id: '7996'
+    url: http://www.gutenberg.org/2009/agents/7996
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferri, Enrico
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '257'
+    url: http://www.gutenberg.org/2009/agents/257
+description: Cover -- Contents.
+gutenberg_issued: '2006-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spencer, Herbert, 1820-1903'
+- !lcsh 'Evolution'
+- !lcc 'HX'
+- !lcsh 'Socialism'
+title: Socialism and Modern Science (Darwin, Spencer, Marx)
+url: http://www.gutenberg.org/ebooks/18397
