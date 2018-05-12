@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '257'
     url: http://www.gutenberg.org/2009/agents/257
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18397#Socialism-and-Modern-Science--Darwin-Spencer-Marx-
 gutenberg_issued: '2006-05-16'
 gutenberg_type: Text
 identifiers:
